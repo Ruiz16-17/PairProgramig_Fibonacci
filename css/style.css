@@ -1,0 +1,15 @@
+body{
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    width: 220px !important;
+}
